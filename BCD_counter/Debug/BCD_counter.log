@@ -1,0 +1,4 @@
+﻿  BCD_counter.cpp
+C:\Users\E411_71\Desktop\systemc-2.3.2\src\sysc\packages\boost\utility\string_view.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  Unknown compiler version - please run the configure tests and report the results
+  BCD_counter.vcxproj -> C:\Users\E411_71\Desktop\systemc_data\BCD_counter\Debug\BCD_counter.exe
